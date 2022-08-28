@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-18T09:07:48 IST" name="Default suite" finished-at="2022-08-18T09:08:10 IST" duration-ms="21686">
+    <groups>
+    </groups>
+    <test started-at="2022-08-18T09:07:48 IST" name="Default test" finished-at="2022-08-18T09:08:10 IST" duration-ms="21686">
+      <class name="ExecuteTests.TableTest">
+        <test-method is-config="true" signature="Beforemethod()[pri:0, instance:ExecuteTests.TableTest@4738a206]" started-at="2022-08-18T09:07:48 IST" name="Beforemethod" finished-at="2022-08-18T09:08:08 IST" duration-ms="19475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforemethod -->
+        <test-method signature="verifyTextNames()[pri:0, instance:ExecuteTests.TableTest@4738a206]" started-at="2022-08-18T09:08:08 IST" name="verifyTextNames" finished-at="2022-08-18T09:08:10 IST" duration-ms="2138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTextNames -->
+      </class> <!-- ExecuteTests.TableTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
